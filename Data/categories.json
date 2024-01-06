@@ -1,0 +1,22 @@
+[
+    {
+        "name": "all",
+        "value": "all"
+    },
+    {
+        "name": "Desert",
+        "value": "desert"
+    },
+    {
+        "name": "Biryani",
+        "value": "biryani"
+    },
+    {
+        "name": "Ice cream",
+        "value": "icecream"
+    },
+    {
+        "name": "Juice",
+        "value": "juice"
+    }
+]

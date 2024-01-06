@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Dry Tuffle",
+        "image": "/FoodImages/dry-tuffle.jpeg",
+        "price": 170,
+        "category": "desert",
+        "isVegetarian": true
+    },
+    {
+        "name": "Hyderabad Chicken Biryani",
+        "image": "/FoodImages/hyderabad-chicken-biryani.avif",
+        "price": 270,
+        "category": "biryani",
+        "isVegetarian": false
+    },
+    {
+        "name": "Veg Biryani",
+        "image": "/FoodImages/veg-biryani.avif",
+        "price": 190,
+        "category": "biryani",
+        "isVegetarian": true
+    },
+    {
+        "name": "Chettinad Chicken Biryani",
+        "image": "/FoodImages/chetinaadu-chicken-biryani.avif",
+        "price": 300,
+        "category": "biryani",
+        "isVegetarian": false
+    },
+    {
+        "name": "Prawn Biryani",
+        "image": "/FoodImages/prawn-biryani.avif",
+        "price": 390,
+        "category": "biryani",
+        "isVegetarian": false
+    },
+    {
+        "name": "Mutton Biryani",
+        "image": "/FoodImages/mutton-biryani.avif",
+        "price": 470,
+        "category": "biryani",
+        "isVegetarian": false
+    },
+    {
+        "name": "Eggnog IC",
+        "image": "/FoodImages/eggnog-icecream.jpeg",
+        "price": 160,
+        "category": "icecream",
+        "isVegetarian": true
+    },
+    {
+        "name": "Chocolate IC",
+        "image": "/FoodImages/chocolate-icecream.jpeg",
+        "price": 230,
+        "category": "icecream",
+        "isVegetarian": true
+    },
+    {
+        "name": "Red Velvet IC",
+        "image": "/FoodImages/red-velvet-icecream.jpeg",
+        "price": 95,
+        "category": "icecream",
+        "isVegetarian": true
+    },
+    {
+        "name": "Red Velvet IC",
+        "image": "/FoodImages/red-velvet-icecream.jpeg",
+        "price": 95,
+        "category": "juice",
+        "isVegetarian": true
+    }
+]
